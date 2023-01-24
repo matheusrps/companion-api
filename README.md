@@ -1,7 +1,7 @@
 # Companion-API
-This is the repository for a REST API created by me using FastAPI to manipulate MTG Companion / Eventlink applications as a study case. It provides full control over tournaments in MTG Companion and can be used to integrate with your own tournament or store website. 
+This is the repository for a REST API created by me using FastAPI to manipulate MTG Companion / Eventlink applications and its GraphQL API as a study case. It provides full control over tournaments in MTG Companion and can be used to integrate with your own tournament or store website. 
 
-There's a working swagger with complete informations about this API, you can check it out here: https://companion.matheusramos22.repl.co/docs
+There's a working swagger with complete information about this API, you can check it out here: https://companion.matheusramos22.repl.co/docs
 
 Aside from that, here is a full get started guide to newcomers:
 
